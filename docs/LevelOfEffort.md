@@ -38,19 +38,19 @@ We need a solution which will be less work at each step of the process:
 Given the amount of workstreams that are wrapping up now, and needing lots of continuing documentation support, I suggest that we at least adopt a few of these workflow enhancements.
 
 ### Easiest solution
-content authors use markdown
-These are versioned in a git repo
-Text is built into PDFs by sphinx locally--built with DOT specific branding
-These PDFs etc are delivered by current methods (eg. to Sharepoint)
+- Content authors use markdown
+- These are versioned in a git repo
+- Text is built into PDFs by sphinx locally--built with DOT specific branding
+- These PDFs etc are delivered by current methods (eg. to Sharepoint)
 
 ### Deliverable solution
-Different templates for SOPs and other documents
-Cloud hosted solution for accessing the
-pulls from git repos with webhooks
-Text is auto-built and deployed after QA
+- Different templates for SOPs and other documents
+- Cloud hosted solution for accessing the
+- pulls from git repos with webhooks
+- Text is auto-built and deployed after QA
 
 ### Very nice to have solution
-On-prem hosted solution
-Full authentication integration
-Editable by client users after delivery
-Image/media file versioning is tracked (more efficiently than in git solution)
+- On-prem hosted solution
+- Full authentication integration
+- Editable by client users after delivery
+- Image/media file versioning is tracked (more efficiently than in git solution)
